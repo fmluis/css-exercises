@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+p{
+    background-color: RGB(127,0,27,0.2); font-family: Dejavu, Verdana, Geneva, Tahoma, sans-serif;
+}
+#second{
+    color: RGB(0,0,127); font-size: 36px;
+}
+.third{
+    font-size: 24px;
+}
+#fourth{
+    background-color: RGB(0,127,0,0.2); font-size: 24px; font-weight:bold;
+}
